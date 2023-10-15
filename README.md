@@ -2,7 +2,8 @@
 National Geographic Website Clone (Not Responsive)
 
 
-My first project which is created by using only HTML and CSS. (Not Responsive.)
+This project is my first cloning project in my developing career.
+I only used HTML and CSS.
 
 
 
